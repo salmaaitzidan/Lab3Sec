@@ -1,10 +1,10 @@
 Mini-rapport
-
+Salma AIT ZIDAN
 Perimetre   : emulateur Android Studio (Pixel 6, API 33), cible testphp.vulnweb.com
 Burp version: 2024.1 Community Edition
 IP hote     : 192.168.1.7
 Port proxy  : 8080
-Date / heure: 07/06/2026 — 14h30
+Date / heure: 07/06/2026 — 10h00
 
 Preuves
   - 3 requetes capturees dans HTTP history (GET /, style.css, logo.gif)
