@@ -1,5 +1,7 @@
 Mini-rapport
+
 Salma AIT ZIDAN
+
 Perimetre   : emulateur Android Studio (Pixel 6, API 33), cible testphp.vulnweb.com
 Burp version: 2024.1 Community Edition
 IP hote     : 192.168.1.7
